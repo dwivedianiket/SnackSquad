@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506059365827",
+    "project_id": "snack-squad-ee7e7",
+    "storage_bucket": "snack-squad-ee7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506059365827:android:647aae4a2ac6ddc253b176",
+        "android_client_info": {
+          "package_name": "my.snacksquad.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bPBa5qcIwQns-nZ_WY7I4ywIqj6DbD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

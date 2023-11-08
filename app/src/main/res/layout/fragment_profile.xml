@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/login"
+    android:background="@color/blueish"
+    android:id="@+id/profile"
+    tools:context=".ProfileFragment">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Your Profile"
+        android:textSize="30sp"
+        android:background="@color/login"
+        android:textColor="@color/white"
+        android:fontFamily="@font/aclonica"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginEnd="130dp"
+        android:background="@drawable/car"/>
+
+    <TextView
+        android:id="@+id/emailTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="270dp"
+        android:gravity="center"
+        android:text="Email"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="340dp"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="Good food is the foundation\n of\n genuine happiness"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginEnd="131dp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="100dp"
+        android:onClick="logout"
+        android:text="Logout" />
+
+</RelativeLayout>
+
+

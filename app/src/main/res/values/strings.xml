@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Snack Squad</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notification</string>
+    <string name="track">Track</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="State">
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+    </string-array>
+    <string-array name="DishName">
+        <item>Egg Curry</item>
+        <item>Pizza</item>
+        <item>Cold Drinks</item>
+        <item>Chicken Tikka</item>
+        <item>Butter Chicken</item>
+        <item>Paneer Butter Masala</item>
+        <item>Paneer Tikka</item>
+        <item>Tandoori Roti</item>
+        <item>Butter Roti</item>
+        <item>Tawa Roti</item>
+        <item>Naan</item>
+        <item>Chicken 65</item>
+        <item>Seasonal veg</item>
+        <item>Dum aalu</item>
+        <item>Momos</item>
+        <item>Paneer lababdaar</item>
+        <item>Sandwich</item>
+        <item>Chaap</item>
+        <item>Noodles</item>
+        <item>Manchurian</item>
+        <item>Chilli Potato</item>
+
+    </string-array>
+
+</resources>
